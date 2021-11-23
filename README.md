@@ -1,6 +1,8 @@
 # Hermes
 Use to Alfred 4 to make Calls (Phone & Facetime) and send SMS/iMessages on MacOS Catalina & up
 
+# Note: Use the beta release if you're having issues.
+
 <h2>How To Use<h2>
   
 Use the keyword: **Call**, then enter the name or number of the contact
