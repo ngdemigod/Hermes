@@ -1,5 +1,5 @@
 # Hermes
-Use to Alfred 4 to make Calls (Phone & Facetime) and send SMS/iMessages on MacOS Catalina & up
+Use to Alfred 5 to make Calls (Phone & Facetime) and send SMS/iMessages on MacOS Catalina & up
 
 # Note: Use the beta release if you're having issues.
 
